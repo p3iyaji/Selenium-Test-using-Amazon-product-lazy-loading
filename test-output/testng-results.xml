@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-01T16:17:29 BST" name="Default suite" finished-at="2023-10-01T16:17:59 BST" duration-ms="30344">
+    <groups>
+    </groups>
+    <test started-at="2023-10-01T16:17:29 BST" name="Default test" finished-at="2023-10-01T16:17:59 BST" duration-ms="30344">
+      <class name="com.realpay.AmazonLazyLoadingTest">
+        <test-method signature="getAllDisplayedProducts()[pri:0, instance:com.realpay.AmazonLazyLoadingTest@70d8de]" started-at="2023-10-01T16:17:29 BST" name="getAllDisplayedProducts" finished-at="2023-10-01T16:17:29 BST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllDisplayedProducts -->
+        <test-method signature="getNthProdDetails()[pri:0, instance:com.realpay.AmazonLazyLoadingTest@70d8de]" started-at="2023-10-01T16:17:29 BST" name="getNthProdDetails" finished-at="2023-10-01T16:17:47 BST" duration-ms="18098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNthProdDetails -->
+        <test-method signature="openWebpage()[pri:0, instance:com.realpay.AmazonLazyLoadingTest@70d8de]" started-at="2023-10-01T16:17:47 BST" name="openWebpage" finished-at="2023-10-01T16:17:48 BST" duration-ms="948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebpage -->
+        <test-method signature="scrollDownProducts()[pri:0, instance:com.realpay.AmazonLazyLoadingTest@70d8de]" started-at="2023-10-01T16:17:48 BST" name="scrollDownProducts" finished-at="2023-10-01T16:17:54 BST" duration-ms="6076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownProducts -->
+        <test-method signature="testLazyLoading()[pri:0, instance:com.realpay.AmazonLazyLoadingTest@70d8de]" started-at="2023-10-01T16:17:54 BST" name="testLazyLoading" finished-at="2023-10-01T16:17:59 BST" duration-ms="5098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLazyLoading -->
+      </class> <!-- com.realpay.AmazonLazyLoadingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
